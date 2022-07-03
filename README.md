@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitenp93
+- 👋 Hi, I’m @hitenp93 - Hiten
 - 👀 I’m interested in working on projects to enhance my knowledge and understanding of software engineering concepts and practices so that eventually I can contribute these skills in a proffestional industry setting 
 - 🌱 I’m currently learning Java, Python, MySQL through a software engineering bootcamp
 - 💞️ I’m looking to collaborate on mini projects, real life problems that can make a difference to the world
